@@ -1,0 +1,115 @@
+{
+  "@@locale": "es",
+  "helloWorld": "DevVibe",
+  "@helloWorld": {
+    "description": "App title in app bar"
+  },
+  "welcomeMessage": "¡Bienvenido!",
+  "@welcomeMessage": {
+    "description": "Welcome message for user"
+  },
+  "settings": "Configuración",
+  "@settings": {
+    "description": "Settings section title"
+  },
+  "darkTheme": "Tema Oscuro",
+  "@darkTheme": {
+    "description": "Dark theme toggle label"
+  },
+  "language": "Idioma",
+  "@language": {
+    "description": "Language selection label"
+  },
+  "authTitle": "Bienvenido de Nuevo",
+  "@authTitle": {
+    "description": "Authentication page title"
+  },
+  "authSubtitle": "Inicia sesión para continuar",
+  "@authSubtitle": {
+    "description": "Authentication page subtitle"
+  },
+  "authCardTitle": "Comenzar",
+  "@authCardTitle": {
+    "description": "Auth card title"
+  },
+  "authCardSubtitle": "Inicia sesión con tu cuenta",
+  "@authCardSubtitle": {
+    "description": "Auth card subtitle"
+  },
+  "signInWithGoogle": "Iniciar sesión con Google",
+  "@signInWithGoogle": {
+    "description": "Google sign in button text"
+  },
+  "authSuccess": "¡Sesión iniciada correctamente!",
+  "@authSuccess": {
+    "description": "Success message after authentication"
+  },
+  "authLoading": "Iniciando sesión...",
+  "@authLoading": {
+    "description": "Loading message during authentication"
+  },
+  "authOr": "O",
+  "@authOr": {
+    "description": "Divider text between options"
+  },
+  "authFeature1": "Autenticación segura",
+  "@authFeature1": {
+    "description": "First feature description"
+  },
+  "authFeature2": "Rápido y confiable",
+  "@authFeature2": {
+    "description": "Second feature description"
+  },
+  "authFeature3": "Sincroniza entre dispositivos",
+  "@authFeature3": {
+    "description": "Third feature description"
+  },
+  "authTerms": "Al iniciar sesión, aceptas nuestros Términos y Política de Privacidad",
+  "@authTerms": {
+    "description": "Terms and privacy text"
+  },
+  "splashTagline": "Tu Compañero de Desarrollo",
+  "@splashTagline": {
+    "description": "App tagline on splash screen"
+  },
+  "splashLoading": "Cargando...",
+  "@splashLoading": {
+    "description": "Loading text on splash screen"
+  },
+  "homeSubtitle": "Administra tus preferencias a continuación",
+  "@homeSubtitle": {
+    "description": "Home page subtitle"
+  },
+  "themeDarkEnabled": "Modo oscuro activado",
+  "@themeDarkEnabled": {
+    "description": "Dark theme status"
+  },
+  "themeLightEnabled": "Modo claro activado",
+  "@themeLightEnabled": {
+    "description": "Light theme status"
+  },
+  "quickActions": "Acciones Rápidas",
+  "@quickActions": {
+    "description": "Quick actions section title"
+  },
+  "notifications": "Notificaciones",
+  "@notifications": {
+    "description": "Notifications action"
+  },
+  "profile": "Perfil",
+  "@profile": {
+    "description": "Profile action"
+  },
+  "help": "Ayuda",
+  "@help": {
+    "description": "Help action"
+  },
+  "about": "Acerca de",
+  "@about": {
+    "description": "About action"
+  },
+  "signOut": "Cerrar Sesión",
+  "@signOut": {
+    "description": "Sign out button text"
+  }
+}

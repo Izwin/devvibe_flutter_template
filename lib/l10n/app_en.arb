@@ -1,0 +1,115 @@
+{
+  "@@locale": "en",
+  "helloWorld": "DevVibe",
+  "@helloWorld": {
+    "description": "App title in app bar"
+  },
+  "welcomeMessage": "Welcome!",
+  "@welcomeMessage": {
+    "description": "Welcome message for user"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings section title"
+  },
+  "darkTheme": "Dark Theme",
+  "@darkTheme": {
+    "description": "Dark theme toggle label"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language selection label"
+  },
+  "authTitle": "Welcome Back",
+  "@authTitle": {
+    "description": "Authentication page title"
+  },
+  "authSubtitle": "Sign in to continue",
+  "@authSubtitle": {
+    "description": "Authentication page subtitle"
+  },
+  "authCardTitle": "Get Started",
+  "@authCardTitle": {
+    "description": "Auth card title"
+  },
+  "authCardSubtitle": "Sign in with your account",
+  "@authCardSubtitle": {
+    "description": "Auth card subtitle"
+  },
+  "signInWithGoogle": "Sign in with Google",
+  "@signInWithGoogle": {
+    "description": "Google sign in button text"
+  },
+  "authSuccess": "Successfully signed in!",
+  "@authSuccess": {
+    "description": "Success message after authentication"
+  },
+  "authLoading": "Signing in...",
+  "@authLoading": {
+    "description": "Loading message during authentication"
+  },
+  "authOr": "OR",
+  "@authOr": {
+    "description": "Divider text between options"
+  },
+  "authFeature1": "Secure authentication",
+  "@authFeature1": {
+    "description": "First feature description"
+  },
+  "authFeature2": "Fast and reliable",
+  "@authFeature2": {
+    "description": "Second feature description"
+  },
+  "authFeature3": "Sync across devices",
+  "@authFeature3": {
+    "description": "Third feature description"
+  },
+  "authTerms": "By signing in, you agree to our Terms & Privacy Policy",
+  "@authTerms": {
+    "description": "Terms and privacy text"
+  },
+  "splashTagline": "Your Development Companion",
+  "@splashTagline": {
+    "description": "App tagline on splash screen"
+  },
+  "splashLoading": "Loading...",
+  "@splashLoading": {
+    "description": "Loading text on splash screen"
+  },
+  "homeSubtitle": "Manage your preferences below",
+  "@homeSubtitle": {
+    "description": "Home page subtitle"
+  },
+  "themeDarkEnabled": "Dark mode enabled",
+  "@themeDarkEnabled": {
+    "description": "Dark theme status"
+  },
+  "themeLightEnabled": "Light mode enabled",
+  "@themeLightEnabled": {
+    "description": "Light theme status"
+  },
+  "quickActions": "Quick Actions",
+  "@quickActions": {
+    "description": "Quick actions section title"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications action"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile action"
+  },
+  "help": "Help",
+  "@help": {
+    "description": "Help action"
+  },
+  "about": "About",
+  "@about": {
+    "description": "About action"
+  },
+  "signOut": "Sign Out",
+  "@signOut": {
+    "description": "Sign out button text"
+  }
+}
